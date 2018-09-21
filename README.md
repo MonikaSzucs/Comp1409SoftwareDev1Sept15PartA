@@ -14,6 +14,6 @@ The consstructor takes these three parameters too, but only assigns them if the 
 
 - the year published must be between 1455 and the current year inclusive
 
-Otherwise throw an illegalArguementException.
+Otherwise throw an IllegalArguementException.
 
 Ensure that the class and the constructor have Javadoc comment blocks above them. Use the @author and @version tags for the class comment; use the @param tag for the constructor.
